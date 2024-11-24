@@ -1,7 +1,7 @@
 ---
 title: "Understanding the geochemical signals of soil carbonates"
 excerpt: It is imperative to understand what is recorded by those geochemical signals
-  before applying them for paleoenvironmental reconstructions. <br/><img src='/images/CL_image.png'>
+  before applying them for paleoenvironmental reconstructions. <br/><br/><img src='/images/CL_image.png'>
 collection: research
 output: pdf_document
 ---
