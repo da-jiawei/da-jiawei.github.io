@@ -28,7 +28,7 @@ Work Experience
     - 08/01/2022 - now
     - Research projects:
         1. Archiving and modernizing the [published paleosol-CO<sub>2</sub> records](https://paleo-co2.org/co2pip)
-        2. Developing a multi-proxy system model based on soil carbonate isotopes ($\delta^{13}$C, $\delta^{18}$O, and  $\Delta$'17O) and applying it for paleoenvironmental reconstructions
+        2. Developing a multi-proxy system model based on soil carbonate isotopes ($\delta^{13}$C, $$\delta^{18}$$O, and  $\Delta{'17}$O) and applying it for paleoenvironmental reconstructions
         3. Investigating the Miocene-Pliocene hydroclimate variability over East Asia using a multi-proxy approach based on soil carbonates
         4. Developing a proxy system model for land snail shells to reconstruct relative humidity
 
