@@ -8,11 +8,11 @@ date: 2024-09-01
 location: "Austin, TX"
 ---
 
-I was involved in teaching one of my supervisor's (Prof. Dan Breecker) graduate course, which aimed at teaching students how to build soil gas wells, collect soil gas samples, measure concentrations and isotope compositions of soil CO2, as well as use \\(\delta^{13}C\\) of soil CO<sub>2</sub> to trace plant respiration and the dissolution and precipitation of soil carbonates. 
+I was involved in teaching one of my supervisor's (Prof. Dan Breecker) graduate courses, which aimed at teaching students how to build soil gas wells, collect soil gas samples, measure concentrations and isotope compositions of soil CO2, as well as use \\(\delta^{13}C\\) of soil CO<sub>2</sub> to trace plant respiration and the dissolution and precipitation of soil carbonates. 
 
 ### Building soil gas wells with commercially available parts
 
-![making wells](/images/teaching/pvc_well.jpg)      
+![making wells](/images/teaching/pvc_well.jpg){: width="200" }      
 Graduate student Will punching holes on the pvc tube. It certainly looks easier!  
 
 ### Installing soil gas wells
@@ -22,7 +22,7 @@ Lab manager Jeff drilling the hole for gas well installation while graduate stud
 
 ### Measuring soil gas concentrations
 
-![install wells](/images/teaching/gas_measuring.jpg)
+![install wells](/images/teaching/gas_measuring.jpg)        
 Graduate student Mielle measuring soil CO<sub>2</sub> and O<sub>2</sub> concentrations using Quantek. 
 
 
