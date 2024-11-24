@@ -12,17 +12,17 @@ I was involved in teaching one of my supervisor's (Prof. Dan Breecker) graduate 
 
 ### Building soil gas wells with commercially available parts
 
-![making wells](/images/teaching/pvc_well.jpg){: width="200" }      
+![making wells](/images/teaching/pvc_well.jpg){: width="300" }      
 Graduate student Will punching holes on the pvc tube. It certainly looks easier!  
 
 ### Installing soil gas wells
 
-![install wells](/images/teaching/well_install2.jpeg)       
+![install wells](/images/teaching/well_install2.jpeg){: width="300" }       
 Lab manager Jeff drilling the hole for gas well installation while graduate student Riley sucking particles out of the hole. This ensures the drilling reaches the targeted depth. It is a two-men job! 
 
 ### Measuring soil gas concentrations
 
-![install wells](/images/teaching/gas_measuring.jpg)        
+![install wells](/images/teaching/gas_measuring.jpg){: width="300" }        
 Graduate student Mielle measuring soil CO<sub>2</sub> and O<sub>2</sub> concentrations using Quantek. 
 
 
