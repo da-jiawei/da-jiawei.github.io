@@ -1,6 +1,6 @@
 ---
 title: "Late Cenozoic atmospheric CO<sub>2</sub> reconstruction"
-excerpt: "Understanding the role of CO<sub>2</sub> in major climate transitions. <br/><img src='/images/lvliang1.jpeg'>"
+excerpt: "Understanding the role of CO<sub>2</sub> in major climate transitions. <br/><img src='/images/lvliang2.jpeg'>"
 collection: research
 ---
 
