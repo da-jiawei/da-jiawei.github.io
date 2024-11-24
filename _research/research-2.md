@@ -12,3 +12,8 @@ Soil carbonates are a common terrestrial archive for paleoclimate studies. For i
 
 However, both their carbon and oxygen isotopic compositions are affected by multiple environmental forcings, which can be difficult to disentangle in paleo contexts. Additionally, the formation of soil carbonates is highly seasonal in response to changes in temperature, rainfall, and soil respiration, suggesting that they record seasonal climate signals rather than annual means. Therefore, it is essential to understand their formation time and the environmental signals they recorded before applying them for paleoenvironmental reconstructions.    
 
+In our study area, the Chinese Loess Plateau, we applied systematic spatiotemporal \\(\delta^{13}C\\) and \\(\delta^{18}O\\) analyses, proxy system modeling, and numerical modeling to understand
+
+
+
+
