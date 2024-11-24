@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 I'm a postdoctoral fellow at [the University of Texas at Austin](https://www.jsg.utexas.edu/researcher/jiawei_da/), funded by the [NSF-FRES CO<sub>2</sub>PIP project](https://paleo-co2.org/co2pip).   
-I am broadly interested in past changes in 🌏 carbon and 🌧️ cycles and the underlying mechanisms responsible for those changes. The lessons we learned from the past can  help us tackle pressing challenges under 🌏 🔥 such as water scarcity and carbon emission. I use various geochemical tools from terrestrial archives to reconstruct paleoenvironmental information such as atmospheric CO<sub>2</sub>, 🌧, and temperature.    
-When I am not doing research🔬, I enjoy 🏋, playing 🏀, watching 🎥, playing 🎮, and cooking 🥘. 
+I am broadly interested in past changes in 🌏 carbon and 🌧️ cycles and the underlying mechanisms responsible for those changes. The lessons we learned from the past can  help us tackle pressing challenges under 🌏 🔥 such as water scarcity and carbon emission. I use various geochemical tools from terrestrial archives to reconstruct paleoenvironmental information such as atmospheric CO<sub>2</sub> and 🌧🌡.    
+When I am not 🧐🔬, I enjoy 🏋🏀🎥🎮🥘. 
 
 Education
 ------
