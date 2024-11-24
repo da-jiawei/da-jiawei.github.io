@@ -21,7 +21,7 @@ Education
     - [School of Earth Sciences, Jilin University](https://geo.jlu.edu.cn/en/)
     - 09/01/2008 - 06/30/2012
 
-Research Experience
+Work Experience
 ------
   - CO2PIP postdoctoral fellow
     - The University of Texas at Austin
