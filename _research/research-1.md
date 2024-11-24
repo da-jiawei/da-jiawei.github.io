@@ -17,3 +17,10 @@ The Chinese Loess Plateau has been receiving eolian dust deposition since the la
 [^1]: The figure is from Zhu et al., Nature, 2018. 
 
 The results show relatively stable CO<sub>2</sub> during the interglacial periods and long-term decline in glacial CO<sub>2</sub>, highlighting the role of CO<sub>2</sub> in the amplification of the glacial cycles and the long-term global cooling. Moreover, our CO<sub>2</sub> data suggest increasing climate sensitivity under higher CO<sub>2</sub> levels, and overall higher climate sensitivity than model projections, indicating a potentially underestimated future warming.    
+
+## Related Publications:
+
+   1. Da J, Zhang Y G, Wang H, et al. An Early Pleistocene atmospheric CO2 record based on pedogenic carbonate from the Chinese loess deposits[J]. Earth and Planetary Science Letters, 2015, 426: 69-75. 
+   2. Da J, Zhang Y G, Li G, et al. Low CO2 levels of the entire Pleistocene epoch, Nat. Commun., 10, 4342[EB/OL].(2019) 
+
+
