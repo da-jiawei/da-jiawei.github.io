@@ -13,13 +13,13 @@ I was involved in teaching one of my supervisor's (Prof. Dan Breecker) graduate 
 Building soil gas wells with commercially available parts
 ======
 
-![making wells](/images/teaching/pvc.well.jpg)
-Graduate student Will cutting the pvc tube used as the gas well. It certainly looks easier!  
+![making wells](/images/teaching/pvc_well.jpg)
+Graduate student Will punching holes on the pvc tube. It certainly looks easier!  
 
 Installing soil gas wells
 ======
 
-![install wells](/images/teaching/well_install2.jpg)
+![install wells](/images/teaching/well_install2.jpeg)
 Lab manager Jeff drilling the hole for gas well installation while graduate student Riley sucking particles out of the hole. This ensures the drilling reaches the targeted depth. It is a two-men job! 
 
 Measuring soil gas concentrations
