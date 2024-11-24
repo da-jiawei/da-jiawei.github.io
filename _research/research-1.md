@@ -15,10 +15,10 @@ The Chinese Loess Plateau has been receiving eolian dust deposition since the la
 ![Pleistocene loess-paleosol sequence](/images/loess-paleosol.jpg)      
 : Pleistocene loess-paleosol sequence on the Chinese Loess Plateau, characterized by light and dark layers formed during glacial and interglacial periods, respectively.[^2]   
 
+The results show relatively stable CO<sub>2</sub> during the interglacial periods and long-term decline in glacial CO<sub>2</sub>, highlighting the role of CO<sub>2</sub> in the amplification of the glacial cycles and the long-term global cooling. Moreover, our CO<sub>2</sub> data suggest increasing climate sensitivity under higher CO<sub>2</sub> levels, and overall higher climate sensitivity than model projections, indicating a potentially underestimated future warming.    
+
 [^1]: The figure and CO<sub>2</sub> data can be downloaded from paleo-co2.org.    
 [^2]: The figure is from Zhu et al., Nature, 2018. 
-
-The results show relatively stable CO<sub>2</sub> during the interglacial periods and long-term decline in glacial CO<sub>2</sub>, highlighting the role of CO<sub>2</sub> in the amplification of the glacial cycles and the long-term global cooling. Moreover, our CO<sub>2</sub> data suggest increasing climate sensitivity under higher CO<sub>2</sub> levels, and overall higher climate sensitivity than model projections, indicating a potentially underestimated future warming.    
 
 ## Related Publications:
 
