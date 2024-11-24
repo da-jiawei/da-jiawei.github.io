@@ -24,7 +24,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: http://da-jiawei.github.io/files/CV.pdf
+    url: /files/CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
