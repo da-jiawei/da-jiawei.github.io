@@ -1,11 +1,9 @@
 ---
-title: "Understanding the geochemical signals of soil carbonates"
-excerpt: It is imperative to understand what is recorded by those geochemical signals
-  before applying them for paleoenvironmental reconstructions. <br/><img src='/images/CL_image.png'>
+title: "Miocene-Pliocene Rainfall seasonality over East Asia"
+excerpt: Seasonal rainfall distributions have strong effects on water availability. <br/><img src='/images/hovmoller.jpeg'>
 collection: research
 output: pdf_document
 ---
-     
      
 Soil carbonates are a common terrestrial archive for paleoclimate studies. For instance, their stable isotope compositions contain abundant information such as past changes in regional water cycle, the evolution of C4 vegetation, and atmospheric carbon dioxide concentrations. 
 
