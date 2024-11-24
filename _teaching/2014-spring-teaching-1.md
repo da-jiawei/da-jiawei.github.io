@@ -1,20 +1,33 @@
 ---
-title: "Teaching experience 1"
+title: "Soil gas measurement seminar"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2024-fall-teaching-1
+venue: "The University of Texas"
+date: 2024-09-01
+location: "Austin, TX"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was involved in teaching one of my supervisor's (Prof. Dan Breecker) graduate course, which aimed at teaching students how to build soil gas wells, collect soil gas samples, measure concentrations and isotope compositions of soil CO2, as well as use \\(\delta^{13}C\\) of soil CO<sub>2</sub> to trace plant respiration and the dissolution and precipitation of soil carbonates. 
 
-Heading 1
+Building soil gas wells with commercially available parts
 ======
 
-Heading 2
+![making wells](/images/teaching/pvc.well.jpg)
+Graduate student Will cutting the pvc tube used as the gas well. It certainly looks easier!  
+
+Installing soil gas wells
 ======
 
-Heading 3
+![install wells](/images/teaching/well_install2.jpg)
+Lab manager Jeff drilling the hole for gas well installation while graduate student Riley sucking particles out of the hole. This ensures the drilling reaches the targeted depth. It is a two-men job! 
+
+Measuring soil gas concentrations
 ======
+
+![install wells](/images/teaching/gas_measuring.jpg)
+Graduate student Mielle measuring soil CO<sub>2</sub> and O<sub>2</sub> concentrations using Quantek. 
+
+
+
+
