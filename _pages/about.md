@@ -26,10 +26,10 @@ Work Experience
     - The University of Texas at Austin
     - 08/01/2022 - now
     - Research projects:
-        1. Modernizing the Phanerozoic paleosol-derived CO<sub>2</sub> records 
-        2. Joint Proxy Inversion (JPI) of a paleosol-based Proxy System Model (PSM) 
-        3. Miocene-Pliocene rainfall seasonality over East Asia
-        4. Developing a standard operating protocol of acid pre-analysis treatment for high-carbonate paleosol samples 
+        1. *Modernizing the Phanerozoic paleosol-derived CO<sub>2</sub> records* 
+        2. *Joint Proxy Inversion (JPI) of a paleosol-based Proxy System Model (PSM)* 
+        3. *Miocene-Pliocene rainfall seasonality over East Asia*
+        4. *Standard operating protocol of acid pre-analysis treatment for high-carbonate paleosol samples* 
 
   - Yuxiu Young Scholar Program postdoctoral fellow
     - Nanjing University
