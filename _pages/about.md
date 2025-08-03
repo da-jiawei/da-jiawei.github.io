@@ -13,28 +13,28 @@ When I am not 🧐🔬, I enjoy 🏋🏀🎥🎮🥘.
 
 Education
 ------
-  - Ph.D. in Geology
+  - **Ph.D. in Geology**
     - School of Earth Sciences and Engineering, Nanjing University
     - 09/01/2013 - 06/22/2020
     - Research projects:
         1. [Reconstructing Pleistocene atmospheric CO2 levels using paleosols from the Chinese Loess Plateau](https://doi.org/10.1038/s41467-019-12357-5) 
         2. [Identifying the signal of atmospheric CO2 levels in pedogenic carbonates from the Chinese Loess Plateau](https://doi.org/10.1130/G47241.1) 
-  - B.Sc in Geology
+  - **B.Sc in Geology**
     - School of Earth Sciences, Jilin University
     - 09/01/2008 - 06/30/2012
 
 Work Experience
 ------
-  - Postdoctoral fellow
+  - **Postdoctoral fellow**
     - The University of Texas at Austin
     - 08/01/2022 - now
     - Research projects:
-        1. #### *Modernizing the Phanerozoic paleosol-derived CO<sub>2</sub> records* 
-        2. #### *Joint Proxy Inversion (JPI) of a paleosol-based Proxy System Model (PSM)* 
+        1. *Modernizing the Phanerozoic paleosol-derived CO<sub>2</sub> records* 
+        2. *Joint Proxy Inversion (JPI) of a paleosol-based Proxy System Model (PSM)* 
         3. *Miocene-Pliocene rainfall seasonality over East Asia*
         4. *Standard operating protocol of acid pre-analysis treatment for high-carbonate paleosol samples* 
 
-  - Yuxiu Young Scholar Program postdoctoral fellow
+  - **Yuxiu Young Scholar Program postdoctoral fellow**
     - Nanjing University
     - 09/01/2020 - 07/31/2022
     - Research projects:
