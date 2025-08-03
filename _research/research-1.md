@@ -22,15 +22,13 @@ The Chinese Loess Plateau has been receiving eolian dust deposition since the la
 
 The results show relatively stable CO<sub>2</sub> during the interglacial periods and long-term decline in glacial CO<sub>2</sub>, highlighting the role of CO<sub>2</sub> in the amplification of the Pleistocene glacial cycles and the long-term global cooling. Moreover, our CO<sub>2</sub> data suggest climate sensitivity remained relatively stable when the Earth's climate transitioned between glacial and interglacial periods.    
 
-
-
 [^1]: The figure and CO<sub>2</sub> data can be downloaded from paleo-co2.org.    
 [^2]: The figure is from Zhu et al., Nature, 2018. 
 
 ## Related Publications:
 
-   1. Da J, Zhang Y G, Liu X, et al. No apparent state-dependency of equilibrium climate sensitivity between the Pleistocene glacial and interglacial climate states, *Nature Communications*. (https://doi.org/10.1038/s41467-025-61941-5) 
-   2. Da J, Zhang Y G, Li G, et al. Low CO2 levels of the entire Pleistocene epoch, *Nature Communications*. (https://doi.org/10.1038/s41467-019-12357-5)
-   3. Da J, Zhang Y G, Wang H, et al. An Early Pleistocene atmospheric CO2 record based on pedogenic carbonate from the Chinese loess deposits. *Earth and Planetary Science Letters*. (https://doi.org/10.1016/j.epsl.2015.05.053) 
+   1. Da J, Zhang Y G, Liu X, et al. No apparent state-dependency of equilibrium climate sensitivity between the Pleistocene glacial and interglacial climate states, [*Nature Communications*](https://doi.org/10.1038/s41467-025-61941-5) 
+   2. Da J, Zhang Y G, Li G, et al. Low CO2 levels of the entire Pleistocene epoch, [*Nature Communications*](https://doi.org/10.1038/s41467-019-12357-5)
+   3. Da J, Zhang Y G, Wang H, et al. An Early Pleistocene atmospheric CO2 record based on pedogenic carbonate from the Chinese loess deposits. [*Earth and Planetary Science Letters*](https://doi.org/10.1016/j.epsl.2015.05.053) 
 
 
