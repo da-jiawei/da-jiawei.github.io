@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a currently postdoctoral fellow at [the University of Texas at Austin](https://www.jsg.utexas.edu/researcher/jiawei_da/), funded by the [NSF-FRES CO<sub>2</sub>PIP project](https://paleo-co2.org/co2pip).   
+I'm a currently postdoctoral fellow at **the University of Texas at Austin**, funded by the [NSF-FRES CO<sub>2</sub>PIP project](https://paleo-co2.org/co2pip).   
 
-My interests lie in isotope geochemistry, data analysis, and critical thinking. My current research projects primarily focus on deciphering diverse surface processes through the analysis of geochemical signals preserved in terrestrial archives.
+My interests lie in isotope geochemistry, data analysis, and critical thinking. My current research projects primarily focus on elucidating diverse surface processes through the analysis and interpretation of geochemical signals preserved in terrestrial archives.
 
 Apart from doing research🧐🧪🔬💻, you can find me engaged in various outdoor🥾🏔️🛶🏋🏀 and indoor🎥🎮🥘 activities. 
 
@@ -19,8 +19,8 @@ Education
     - School of Earth Sciences and Engineering, Nanjing University
     - 09/01/2013 - 06/22/2020
     - Research projects:
-        1. [Reconstructing Pleistocene atmospheric CO2 levels using paleosols from the Chinese Loess Plateau](https://doi.org/10.1038/s41467-019-12357-5) 
-        2. [Identifying the signal of atmospheric CO2 levels in pedogenic carbonates from the Chinese Loess Plateau](https://doi.org/10.1130/G47241.1) 
+        1. [Reconstructing Pleistocene atmospheric CO<sub>2</sub> levels using paleosols from the Chinese Loess Plateau](https://doi.org/10.1038/s41467-019-12357-5) 
+        2. [Identifying the signal of atmospheric CO<sub>2</sub> levels in pedogenic carbonates from the Chinese Loess Plateau](https://doi.org/10.1130/G47241.1) 
   - **B.Sc in Geology**
     - School of Earth Sciences, Jilin University
     - 09/01/2008 - 06/30/2012
