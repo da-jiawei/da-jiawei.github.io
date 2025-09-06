@@ -15,14 +15,15 @@ Here we propose that C4 expansion over East Asia was primarily driven by rainfal
 ![Red Clay formation on the CLP](/images/research_westerly_C4/redclay.jpeg)    
 : The Miocene-Pliocene Red Clay formation on the Chinese Loess Plateau (Location: Shilou, Shanxi).   
 
+The reconstructed rainfall \\(\delta^{18}\\)O are highly consistent with soil water \\(\delta^{18}\\)O, which show high correspondence with with \\(T_{47}\\), suggesting coupled variations of temperature and rainfall \\(\delta^{18}\\)O. This is consistent with changes in seasonality rainfall from isotopically depleted summer rain to isotopically enriched spring rain, as a result of poleward shift in the westerly jet under warmer climates. 
 
+![Isotopic compositions of soil waters](/images/research_westerly_C4/d18-Dp17sw.png)    
+: The \\(\delta^{18}\\)O, \\(T_{47}\\), and \\(\Delta^{'17}\\)O of reconstructed soil waters (**c-e**). (**a-b**) The 41-ky obliquity cycle and the summer insolation gradient at 65°N. (**f**) Reconstructed soil waters compared with global Holocene soil waters (red cross) and modern tap waters across China (gray circles). (**g**) The \\(\delta^{18}\\)O of reconstructed rainfall compared with soil waters. 
 
+Notably, reconstructed soil water \\(\delta^{18}\\)O and \\(T_{47}\\) vary in concert with the 1.2-Myr obliquity amplitude cycle, indicating the first order control of obliquity cycle on westerly jet migration via its influence on the meridional insolation gradient. The falling obliquity amplitude during the Pliocene, together with the global cooling since the Plio-Pleistocene transition, gradually pushed the westerly jet towards the tropics, leading to a southward C<sub>4</sub> expansion due to enhanced warm season precipitation. 
 
-![Red Clay formation on the CLP](/images/research_westerly_C4/d18-Dp17sw.png)    
-: The \\(\delta^{18}\\)O, \\(T_{47}\\), and \\(\Delta^{'17}\\)O of reconstructed soil waters (**c-e**). ()
-
-Our records suggest increases in rainfall-\\(\delta^{18}O\\) during warmer climates such as the early Pliocene, which cannot be explained by changes in rainfall amount. Instead, we propose that rainfall seasons switched from summer to spring under warmer climates, as a result of more poleward position of the westerly jet and thus an early onset of Meiyu in northern China. In this respect, northern China is likely going to experience more spring rainfall and summer drought as global warming proceeds. 
-
+![C4 and jet evolution](/images/research_westerly_C4/Mio-Pliocene_time_series.png)
+: (**a**) benthic \\(\delta^{18}\\)O stack; (**b-e**) C<sub>4</sub> expansion history; (**f-g**) reconstructed soil water \\(\delta^{18}\\)O and \\(T_{47}\\); (**h**) dust flux at northern Pacific; (**i**) Merdional sea surface temperature gradient; (**j**) atmospheric CO<sub>2</sub> estimates; (**k**) schematic diagram showing the meridional locations of the westerly jet during spring and summer with respect to the organic \\(\delta^{13}\\)C sites.      
 
 [^1]: See detailed explanation in [Ding and Chan, 2003](https://doi.org/10.1007/s00703-005-0125-z).
 [^2]: See detailed explanation in [Kelson et al., 2023, GCA](https://doi.org/10.1016/j.gca.2023.06.034). 
