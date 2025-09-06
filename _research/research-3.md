@@ -1,16 +1,19 @@
 ---
-title: "Miocene-Pliocene Rainfall seasonality over East Asia"
-excerpt: Seasonal rainfall distributions have strong effects on water availability. <br/><br/><img src='/images/hovmoller.jpeg'>
+title: "Miocene-Pliocene Rainfall seasonality and C<sub>4</sub> expansion over East Asia"
+excerpt: The spatiotemporal heterogeneity of Neogene C<sub>4</sub> expansion over East Asia resulted from changes in seasonal rainfall distributions paced by the latitudinal migration of the westerly jet. <br/><br/><img src='/images/research_westerly_C4/hovmoller.jpeg'>
 collection: research
 output: pdf_document
 ---
      
-Under certain climate regimes, rainfall occurs in specific seasons instead of year-round, and changes in seasonal rainfall distributions can have a significant effect on regional water availability. The water cycle over East Asia is dominated by the East Asian monsoon system, which is controlled by multiple factors, including the Hadley cell, the westerly jet, and Tibetan Plateau[^1]. In this study, to better understand the evolution of East Asian hydroclimate under global warming, we looked at the \\(\delta^{18}O\\), \\(\Delta_{47}\\), and \\(\Delta^{'17}O\\) of carbonate nodules from the Red Clay formation on the Chinese Loess Plateau, spanning 8-2.5 million years ago. 
+Rainfall seasonality varies greatly across Earth, ranging from the Mediterranean climate characterized by dry summers and wet winters to the monsoonal climate that experiences heavy rainfall during the summer months. Consequently, the seasonal rainfall distributions have a profound impact on water availability and regional ecosystems. The water cycle in East Asia is primarily driven by the East Asian monsoon system, which interacts dynamically with the westerly jet and regional topography, such as the Tibetan Plateau[^1]. Notably, the Neogene expansion of C<sub>4</sub> grassland over East Asia occurred in a spatiotemporally heterogenuous manner, significantly delayed compared to other continents, indicating a crucial role of local effects in this process. 
+![C4 expansion history over East Asia](/images/research_westerly_C4/d13org_time_series.png)
+: The \\(\delta^{13}\\)C records of terrestrial organic matter across East Asia (**b-f**, from north to south) compared with benthic \\(\delta^{18}\\)O stack (**a**) and atmospheric CO<sub>2</sub> estimates (**g**).
 
-![Red Clay formation on the CLP](/images/redclay.jpeg)    
+Here we propose that C4 expansion over East Asia was primarily driven by rainfall seasonality, which is in turn governed by the latitudinal migration of the westerly jet in response to changes in the meridional temperature gradient. To test this hypothesis, we reconstructed rainfall \\(\delta^{18}\\)O using the \\(\delta^{18}\\)O, \\(\Delta_{47}\\), and \\(\Delta^{'17}\\)O of carbonate nodules from the Red Clay formation on the Chinese Loess Plateau, spanning 8-2.5 million years ago. Soil carbonates are generally formed in oxygen isotope equilibrium with ambient soil waters, the latter of which inherit the \\(\delta^{18}O\\) of rainfall but can be strongly affected by subsequent processes such as evaporation. With the help of soil-carbonate \\(\Delta^{'17}O\\)[^2], we can parse out the effect of evaporation and reconstruct changes in rainfall-\\(\delta^{18}O\\), which contain information of regional hydrological cycle and large-scale air circulation patterns. 
+![Red Clay formation on the CLP](/images/research_westerly_C4/redclay.jpeg)    
 : The Miocene-Pliocene Red Clay formation on the Chinese Loess Plateau (Location: Shilou, Shanxi).   
 
-Soil carbonates are generally formed in oxygen isotope equilibrium with ambient soil waters, the latter of which inherit the \\(\delta^{18}O\\) of rainfall but can be strongly affected by subsequent processes such as evaporation. With the help of soil-carbonate \\(\Delta^{'17}O\\)[^2], we can parse out the effect of evaporation and reconstruct changes in rainfall-\\(\delta^{18}O\\), which contain information of regional hydrological cycle and large-scale air circulation patterns. 
+
 
 ![Red Clay formation on the CLP](/images/CESM_westerlies.png)    
 : Meridional positions of the westerly jet during the summer. Red and black crosses indicate the mean jet positions from CESM2 simulations based on Pliocene and pre-industrial conditions. 

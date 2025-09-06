@@ -19,7 +19,7 @@ Research Experience
     - The Pennsylvania State University
     - 09/01/2025 - now
     - Research project:
-        *discriminate abiotic and biogenic methyl groups via clumped isotopologues* 
+        1. *discriminate abiotic and biogenic methyl groups via clumped isotopologues* 
 
   - **Postdoctoral Fellow**
     - The University of Texas at Austin
@@ -27,9 +27,9 @@ Research Experience
     - Research projects:
         1. *Modernizing the Phanerozoic paleosol-derived CO<sub>2</sub> records* 
         2. *Joint Proxy Inversion (JPI) of a paleosol-based Proxy System Model (PSM)* 
-        3. *Miocene-Pliocene rainfall seasonality over East Asia*
-        4. *Pedogenic carbonate formation in Vertisols* 
-        5. *Bayesian inversion of land snail proxy system model*
+        3. *Miocene-Pliocene rainfall seasonality and C4 expansion over East Asia*
+        4. *Soil gas diffusion and carbonate formation in Vertisols* 
+        5. [Bayesian inversion of land snail proxy system model](https://doi.org/10.1016/j.chemgeo.2025.122953)
         5. *Standard operating protocol of acid pre-analysis treatment for high-carbonate paleosol samples* 
 
   - **Yuxiu Young Scholar Program postdoctoral fellow**
