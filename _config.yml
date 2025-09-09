@@ -21,7 +21,7 @@ repository               : "da-jiawei.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpeg"
+  avatar           : "headshot.jpeg"
   name             : "Jiawei Da"
   pronouns         : "he/him"  
   bio              : "light stable isotope | paleoclimate | surface processes | numerical modeling | bayesian modeling"
